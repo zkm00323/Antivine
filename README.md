@@ -1,2 +1,2 @@
-# Antivine
-RegenerationStudio First Game
+# 蔓不生長/Antivine
+自由再生工作室的第一款遊戲
